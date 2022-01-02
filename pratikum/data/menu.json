@@ -1,0 +1,83 @@
+{"menu": [
+    {
+        "jenis": "makanan",
+        "nama": "Beef Teriyaki",
+        "deskripsi": "lorem ipsum",
+        "harga": 67000,
+        "estimasi": 30,
+        "gambar": "teriyaki.jpg"
+    },
+    {
+        "jenis": "makanan",
+        "nama": "Pizza Limo Cheese",
+        "deskripsi": "lorem ipsum",
+        "harga": 121000,
+        "estimasi": 50,
+        "gambar": "pizza.jpg"
+    },
+    {
+        "jenis": "makanan",
+        "nama": "Sosis Bakar",
+        "deskripsi": "lorem ipsum",
+        "harga": 15000,
+        "estimasi": 15,
+        "gambar": "sosis.jpg"
+    },
+    {
+        "jenis": "makanan",
+        "nama": "Nasi Goreng Spesial",
+        "deskripsi": "lorem ipsum",
+        "harga": 25000,
+        "estimasi": 30,
+        "gambar": "nasi.jpg"
+    },
+    {
+        "jenis": "minuman",
+        "nama": "Fanta Strawberry",
+        "deskripsi": "lorem ipsum",
+        "harga": 11000,
+        "estimasi": 5,
+        "gambar": "fanta.jpg"
+    },
+    {
+        "jenis": "minuman",
+        "nama": "Ice Coffee Choco Pandan",
+        "deskripsi": "lorem ipsum",
+        "harga": 55000,
+        "estimasi": 10,
+        "gambar": "coffee.jpg"
+    },
+    {
+        "jenis": "minuman",
+        "nama": "Regal Milk",
+        "deskripsi": "lorem ipsum",
+        "harga": 27000,
+        "estimasi": 10,
+        "gambar": "susu.jpg"
+    },
+    {
+        "jenis": "dessert",
+        "nama": "Kentang Goreng",
+        "deskripsi": "lorem ipsum",
+        "harga": 25000,
+        "estimasi": 20,
+        "gambar": "kentang.jpg"
+    },
+    {
+        "jenis": "dessert",
+        "nama": "Popcorn Sweet Glazed",
+        "deskripsi": "lorem ipsum",
+        "harga": 55000,
+        "estimasi": 10,
+        "gambar": "popcorn.jpg"
+    },
+    {
+        "jenis": "dessert",
+        "nama": "Spaghetti Ice Cream",
+        "deskripsi": "lorem ipsum",
+        "harga": 35000,
+        "estimasi": 10,
+        "gambar": "eskrim.jpg"
+    }
+]
+}
